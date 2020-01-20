@@ -4,4 +4,7 @@ hello world!!!!!!
 welcome to git
 
 
+this is a demo for add and commit 
+
+
 wHoMsT CaLlS Me??
