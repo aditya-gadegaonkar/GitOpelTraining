@@ -4,8 +4,12 @@ hello world!!!!!!
 welcome to git
 
 
+<<<<<<< HEAD
 this is a demo for add and commit 
 
 
 wHoMsT CaLlS Me??
 
+=======
+wHoMsT CaLlS Me??
+>>>>>>> parent of d282c58... demo updated for am
